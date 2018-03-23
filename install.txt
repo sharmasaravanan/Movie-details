@@ -1,0 +1,2 @@
+sudo pip install Flask  (for installing flask)
+sudo pip install imdbpie    (for installing IMDb api)
